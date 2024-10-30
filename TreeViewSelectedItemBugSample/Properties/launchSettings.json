@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TreeViewSelectedItemBugSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TreeViewSelectedItemBugSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
